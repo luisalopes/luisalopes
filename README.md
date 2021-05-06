@@ -33,4 +33,8 @@ If you want to see how I'm doing on my coding journey, you can find me at:
 **SoloLearn**: Luisa Lopes
 **Exercism**: @luisalopes
 
+Now I have a Figma prototype of what I want my portfolio website to look like (I mean, for now, since I still need to learn some stuff about UI Design...)! But alas, it's only in portuguese for now.
+
+Here's the link: [Prototype](https://www.figma.com/proto/1XWYoMMiB8HxuvmKxKhIi1/Portf%C3%B3lio?node-id=5%3A0&scaling=scale-down&page-id=0%3A1)
+
 As soon as I have an exciting project, be sure it'll be shared here on my Github profile! See you soon. 👋
